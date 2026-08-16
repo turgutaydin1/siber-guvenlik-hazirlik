@@ -1,6 +1,6 @@
 {
-  "name": "KPSS Lisans - 5 Tam Deneme",
-  "short_name": "KPSS Deneme",
+  "name": "KPSS Lisans - 10 Tam Deneme + Çalışma",
+  "short_name": "KPSS Çalışma",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

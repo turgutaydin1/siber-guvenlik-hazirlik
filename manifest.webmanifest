@@ -1,22 +1,14 @@
 {
-  "name": "KPSS Lisans - 10 Tam Deneme + Çalışma",
-  "short_name": "KPSS Deneme",
+  "name": "Siber Güvenliğe Sıfırdan Hazırlık",
+  "short_name": "Siber Hazırlık",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f6fa",
-  "theme_color": "#17365d",
+  "background_color": "#f3f7f8",
+  "theme_color": "#0b3b47",
   "lang": "tr",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
   ]
 }
